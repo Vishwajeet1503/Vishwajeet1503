@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Vishwajeet1503
-- 👀 I’m interested in Coding and New Gadgets
-- 🌱 I’m currently learning Computer Technology in KITS College 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Vishwajeet Mahore
+- 😄 I'm Full-stack Web Developer
+- 🌱 I’m currently pursuing my B.Tech degree from K.I.T.S 
 
 <!---
 Vishwajeet1503/Vishwajeet1503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
