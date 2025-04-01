@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishwajeet Mahore
+- 👋 Hi, I’m Vishwajeet K. Mahore
 - 😄 I'm Full-stack Web Developer
 - 🌱 I’m currently pursuing my B.Tech degree from K.I.T.S 
 
