@@ -61,8 +61,8 @@ Analytical Thinking • Attention to Detail • Problem Solving • Clear Commun
 
 ## 📜 Certifications
 
-* 🏅 IBM Data Analyst Professional Certificate – Coursera
 * 🏅 IBM Full Stack Software Developer Professional Certificate – Coursera
+* 🏅 IBM Data Analyst Professional Certificate – Coursera
 
 ---
 
