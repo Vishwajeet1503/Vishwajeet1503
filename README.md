@@ -17,26 +17,15 @@ With a strong foundation in **Python, SQL, Excel, and Power BI**, and practical 
 
 ### 📈 Data Analysis & Programming
 
-* Python (Pandas, NumPy)
-* SQL (MySQL, PostgreSQL)
-* Excel (VLOOKUP, Pivot Tables, Dashboards)
-* Data Cleaning & Validation
-* Trend & Pattern Analysis
+Python (Pandas, NumPy) | SQL (MySQL, PostgreSQL) | Excel (VLOOKUP, Pivot Tables, Dashboards) | Data Cleaning & Validation | Trend & Pattern Analysis
 
 ### 📊 Data Visualization & Reporting
 
-* Power BI
-* Excel Dashboards
-* KPI Reporting
-* Data Storytelling
+Power BI | Excel Dashboards | KPI Reporting | Data Storytelling
 
 ### 📚 Statistics & Analytics
 
-* Descriptive Statistics
-* Correlation Analysis
-* Basic Regression
-* PCA (Principal Component Analysis)
-* Time-Series Analysis
+Descriptive Statistics | Correlation Analysis | Basic Regression | PCA (Principal Component Analysis) | Time-Series Analysis
 
 ### ⚙️ Tools & Collaboration
 
@@ -44,7 +33,7 @@ Jupyter Notebook | Git & GitHub | Google Sheets | MS PowerPoint | Cross-function
 
 ### 🌱 Soft Skills
 
-Analytical Thinking • Attention to Detail • Problem Solving • Clear Communication • Teamwork • Time Management • Continuous Learning
+Analytical Thinking | Attention to Detail | Problem Solving | Clear Communication | Teamwork | Time Management | Continuous Learning
 
 ---
 
