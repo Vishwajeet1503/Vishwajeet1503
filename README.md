@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Vishwajeet K. Mahore
 
-📊 **Aspiring Data Analyst | Python • SQL • Excel • Power BI**
 💡 Turning raw data into meaningful insights
 📍 India
 
