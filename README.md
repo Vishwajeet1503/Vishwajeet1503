@@ -55,7 +55,7 @@ Analytical Thinking • Attention to Detail • Problem Solving • Clear Commun
 ## 🎓 Education
 
 🎓 **B.Tech in Computer Technology** – Nagpur University (2021–2025)
-* Relevant Coursework: Data Analysis | SQL, Databases | CS Fundamentals | Data Mining | Data Wrangling | Data Visualization
+* Relevant Coursework:- Data Analysis | SQL, Databases | CS Fundamentals | Data Mining | Data Wrangling | Data Visualization
 
 ---
 
@@ -68,9 +68,9 @@ Analytical Thinking • Attention to Detail • Problem Solving • Clear Commun
 
 ## 📬 Contact Me
 
-📧 Email: *vishwajeetmahorevm@gmail.com*
-💼 LinkedIn: *https://www.linkedin.com/in/vishwajeet-kishor-mahore/*
-📊 GitHub: You’re already here 😄
+📧* Email: *vishwajeetmahorevm@gmail.com*
+💼* LinkedIn: *https://www.linkedin.com/in/vishwajeet-kishor-mahore/*
+📊* GitHub: You’re already here 😄
 
 ---
 
