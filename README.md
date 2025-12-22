@@ -40,11 +40,7 @@ With a strong foundation in **Python, SQL, Excel, and Power BI**, and practical 
 
 ### ⚙️ Tools & Collaboration
 
-* Jupyter Notebook
-* Git & GitHub
-* Google Sheets
-* MS PowerPoint
-* Cross-functional Collaboration
+Jupyter Notebook | Git & GitHub | Google Sheets | MS PowerPoint | Cross-functional Collaboration
 
 ### 🌱 Soft Skills
 
