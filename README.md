@@ -68,9 +68,9 @@ Analytical Thinking • Attention to Detail • Problem Solving • Clear Commun
 
 ## 📬 Contact Me
 
-📧* Email: *vishwajeetmahorevm@gmail.com*
-💼* LinkedIn: *https://www.linkedin.com/in/vishwajeet-kishor-mahore/*
-📊* GitHub: You’re already here 😄
+📧 Email: *vishwajeetmahorevm@gmail.com*
+*💼 LinkedIn: *https://www.linkedin.com/in/vishwajeet-kishor-mahore/*
+*📊 GitHub: You’re already here 😄
 
 ---
 
