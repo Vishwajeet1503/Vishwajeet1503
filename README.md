@@ -36,5 +36,7 @@ Analytical Thinking | Attention to Detail | Problem Solving | Clear Communicatio
 * 💼 LinkedIn: *https://www.linkedin.com/in/vishwajeet-kishor-mahore/*
 * 📊 GitHub: You’re already here 😄
 
---- ⭐ **If you like my work, feel free to star ⭐ my repositories and connect with me!** 
---- <!--- Vishwajeet1503/Vishwajeet1503 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+--- 
+⭐ **If you like my work, feel free to star ⭐ my repositories and connect with me!** 
+--- 
+<!--- Vishwajeet1503/Vishwajeet1503 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
