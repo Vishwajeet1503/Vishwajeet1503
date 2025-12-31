@@ -12,7 +12,9 @@
 ### 📈 Data Analysis & Programming 
 Python (Pandas, NumPy) | SQL (MySQL, PostgreSQL) | Excel (VLOOKUP, Pivot Tables, Dashboards) | Data Cleaning & Validation | Trend & Pattern Analysis 
 ### 📊 Data Visualization & Reporting 
-Power BI | Excel Dashboards | KPI Reporting | Data Storytelling ### 📚 Statistics & Analytics Descriptive Statistics | Correlation Analysis | Basic Regression | PCA (Principal Component Analysis) | Time-Series Analysis 
+Power BI | Excel Dashboards | KPI Reporting | Data Storytelling 
+### 📚 Statistics & Analytics 
+Descriptive Statistics | Correlation Analysis | Basic Regression | PCA (Principal Component Analysis) | Time-Series Analysis 
 ### ⚙️ Tools & Collaboration 
 Jupyter Notebook | Git & GitHub | Google Sheets | MS PowerPoint | Cross-functional Collaboration 
 ### 🌱 Soft Skills 
