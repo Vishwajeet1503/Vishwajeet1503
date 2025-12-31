@@ -6,7 +6,8 @@
 # 👋 Hi, I’m Vishwajeet K. Mahore 
 📍 India 
 --- 
-## 🧑‍💻 About Me I am a **detail-oriented and motivated Data Analyst Intern aspirant** with hands-on experience in collecting, cleaning, analyzing, and visualizing structured data to support data-driven decision-making. I enjoy exploring datasets, identifying patterns, and presenting insights through clear dashboards and reports. With a strong foundation in **Python, SQL, Excel, and Power BI**, and practical exposure through internships and projects, I am passionate about applying analytics in **finance, education, and management domains**. I strongly believe that good data storytelling can drive better decisions and real-world impact. 
+## 🧑‍💻 About Me 
+I am a **detail-oriented and motivated Data Analyst Intern aspirant** with hands-on experience in collecting, cleaning, analyzing, and visualizing structured data to support data-driven decision-making. I enjoy exploring datasets, identifying patterns, and presenting insights through clear dashboards and reports. With a strong foundation in **Python, SQL, Excel, and Power BI**, and practical exposure through internships and projects, I am passionate about applying analytics in **finance, education, and management domains**. I strongly believe that good data storytelling can drive better decisions and real-world impact. 
 --- 
 ## 🛠️ Skills & Tools 
 ### 📈 Data Analysis & Programming 
