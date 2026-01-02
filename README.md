@@ -24,7 +24,7 @@ Analytical Thinking | Attention to Detail | Problem Solving | Clear Communicatio
 
 --- 
 ## 🎓 Education 
-🎓 **B.Tech in Computer Technology** – Nagpur University (2021–2025) 
+🎓 **B.Tech in Computer Technology** – Nagpur University (2021–2025)
 * Relevant Coursework:- Data Analysis | SQL, Databases | CS Fundamentals | Data Mining | Data Wrangling | Data Visualization
 
 --- 
