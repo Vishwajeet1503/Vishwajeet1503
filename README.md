@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C6FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Vishwajeet+K.+Mahore;Data+Analyst+Intern+Aspirant;Turning+Data+into+Meaningful+Insights" />
 </p>
 
-# 👋 Hi, I’m Vishwajeet K. Mahore 
+# 👋 Hi, I’m Vishwajeet K. Mahore
 📍 India 
 --- 
 ## 🧑‍💻 About Me 
