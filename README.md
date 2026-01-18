@@ -11,7 +11,8 @@ I am a **detail-oriented and motivated Data Analyst Intern aspirant** with hands
 
 --- 
 ## 🛠️ Skills & Tools 
-📈 Data Analysis & Programming
+
+### 📈 Data Analysis & Programming
 
 Python (Pandas, NumPy) | SQL | Microsoft Excel | Data Cleaning & Preprocessing | Exploratory Data Analysis (EDA) | Trend & Pattern Analysis
 
