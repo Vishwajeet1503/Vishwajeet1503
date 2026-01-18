@@ -11,16 +11,24 @@ I am a **detail-oriented and motivated Data Analyst Intern aspirant** with hands
 
 --- 
 ## 🛠️ Skills & Tools 
-### 📈 Data Analysis & Programming 
-Python (Pandas, NumPy) | SQL (MySQL, PostgreSQL) | Excel (VLOOKUP, Pivot Tables, Dashboards) | Data Cleaning & Validation | Trend & Pattern Analysis 
-### 📊 Data Visualization & Reporting 
-Power BI | Excel Dashboards | KPI Reporting | Data Storytelling 
-### 📚 Statistics & Analytics 
-Descriptive Statistics | Correlation Analysis | Basic Regression | PCA (Principal Component Analysis) | Time-Series Analysis 
-### ⚙️ Tools & Collaboration 
-Jupyter Notebook | Git & GitHub | Google Sheets | MS PowerPoint | Cross-functional Collaboration 
-### 🌱 Soft Skills 
-Analytical Thinking | Attention to Detail | Problem Solving | Clear Communication | Teamwork | Time Management | Continuous Learning 
+📈 Data Analysis & Programming
+
+Python (Pandas, NumPy) | SQL | Microsoft Excel | Data Cleaning & Preprocessing | Exploratory Data Analysis (EDA) | Trend & Pattern Analysis
+
+### 📊 Data Visualization & Reporting
+Power BI | Excel Dashboards | Matplotlib | Seaborn | Analytical Reporting | Data Storytelling & Insights
+
+### 📚 Databases & Data Management
+MySQL | PostgreSQL | MongoDB | Structured Data Handling | Data Quality, Accuracy & Validation | Multi-source Data Integration | Data Integrity & Error-proofing
+
+### 📐 Statistical & Analytical Techniques
+Descriptive Statistics | Correlation Analysis | Basic Regression
+
+### ⚙️ Tools & Collaboration
+Jupyter Notebook | Git & GitHub | MS PowerPoint | Google Sheets
+
+### 🌱 Soft Skills
+Problem-Solving | Attention to Detail | Time Management | Critical Thinking | Analytical Mindset | Organizational Skills
 
 --- 
 ## 🎓 Education 
