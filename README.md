@@ -9,7 +9,7 @@
 📍 India 
 --- 
 ## 🧑‍💻 About Me 
-I am a **detail-oriented and motivated Data Analyst Intern aspirant** with hands-on experience in collecting, cleaning, analyzing, and visualizing structured data to support data-driven decision-making. I enjoy exploring datasets, identifying patterns, and presenting insights through clear dashboards and reports. With a strong foundation in **Python, SQL, Excel, and Power BI**, and practical exposure through internships and projects, I am passionate about applying analytics in **finance, education, and management domains**. I strongly believe that good data storytelling can drive better decisions and real-world impact. 
+**Data Analyst & Business Intelligence (BI) aspirant** with hands-on experience in data collection, cleaning, analysis, dashboard development using Power BI, and data visualization. Proficient in SQL, Python, and Excel for data reporting, trend analysis, and generating actionable business insights to support data-driven decision-making.
 
 --- 
 ## 🛠️ Skills & Tools 
@@ -22,7 +22,7 @@ Python (Pandas, NumPy) | SQL | Microsoft Excel | Data Cleaning & Preprocessing |
 Power BI | Excel Dashboards | Matplotlib | Seaborn | Analytical Reporting | Data Storytelling & Insights
 
 ### 📚 Databases & Data Management
-MySQL | PostgreSQL | MongoDB | Structured Data Handling | Data Quality, Accuracy & Validation | Multi-source Data Integration | Data Integrity & Error-proofing
+MySQL | PostgreSQL | MongoDB | Structured Data Handling | Data Quality, Accuracy & Validation | Data Reporting & Lifecycle Management | Multi-source Data Integration
 
 ### 📐 Statistical & Analytical Techniques
 Descriptive Statistics | Correlation Analysis | Basic Regression
