@@ -40,8 +40,9 @@ Problem-Solving | Attention to Detail | Time Management | Critical Thinking | An
 
 --- 
 ## 📜 Certifications
-  * 🏅 IBM Full Stack Software Developer Professional Certificate – Coursera
   * 🏅 IBM Data Analyst Professional Certificate – Coursera
+  * 🏅 IBM Full Stack Software Developer Professional Certificate – Coursera
+
 
 --- 
 ## 📬 Contact Me 
