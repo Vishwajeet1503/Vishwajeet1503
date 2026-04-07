@@ -6,7 +6,7 @@
 </p>
 
 # 👋 Hi, I’m Vishwajeet K. Mahore
-📍 India 
+📍 India
 --- 
 ## 🧑‍💻 About Me 
 **Data Analyst & Business Intelligence (BI) aspirant** with hands-on experience in **data collection, cleaning, analysis, dashboard development** using **Power BI**, and data visualization. Proficient in **SQL**, **Python**, and **Excel** for **data reporting**, **trend analysis**, and generating actionable business insights to support data-driven decision-making.
