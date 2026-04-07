@@ -9,29 +9,28 @@
 📍 India
 --- 
 ## 🧑‍💻 About Me 
-**Data Analyst & Business Intelligence (BI) aspirant** with hands-on experience in **data collection, cleaning, analysis, dashboard development** using **Power BI**, and data visualization. Proficient in **SQL**, **Python**, and **Excel** for **data reporting**, **trend analysis**, and generating actionable business insights to support data-driven decision-making.
+**Computer Technology graduate** with hands-on experience in **data analysis, SQL querying, and business intelligence reporting** through two internships and independent projects. Seeking an entry-level **Data Analyst** role where I can apply my skills in **Python, SQL, and Power BI** to help teams make faster, better-informed decisions.
 
 --- 
 ## 🛠️ Skills & Tools 
 
-### 📈 Data Analysis & Programming
+### 📈 Languages & Querying
+Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL (MySQL, PostgreSQL) | Advanced Excel
 
-Python (Pandas, NumPy) | SQL | Microsoft Excel | Data Cleaning & Preprocessing | Exploratory Data Analysis (EDA) | Trend & Pattern Analysis
+### 📊 Visualization & BI
+Power BI (DAX, interactive dashboards, KPI tracking) | Excel Dashboards | Google Sheets
 
-### 📊 Data Visualization & Reporting
-Power BI | Excel Dashboards | Matplotlib | Seaborn | Analytical Reporting | Data Storytelling & Insights
+### 📚 Databases
+MySQL | PostgreSQL | MongoDB — querying | basic data modelling | ETL pipelines
 
-### 📚 Databases & Data Management
-MySQL | PostgreSQL | MongoDB | Structured Data Handling | Data Quality, Accuracy & Validation | Data Reporting & Lifecycle Management | Multi-source Data Integration
+### 📐 Statistical Methods
+Descriptive Statistics | Correlation Analysis | EDA | Basic Regression | Trend Forecasting
 
-### 📐 Statistical & Analytical Techniques
-Descriptive Statistics | Correlation Analysis | Basic Regression
-
-### ⚙️ Tools & Collaboration
-Jupyter Notebook | Git & GitHub | MS PowerPoint | Google Sheets
+### ⚙️ Tools &Workflow
+Jupyter Notebook | Git & GitHub | MS Excel | MS PowerPoint | VS Code
 
 ### 🌱 Soft Skills
-Problem-Solving | Attention to Detail | Time Management | Critical Thinking | Analytical Mindset | Organizational Skills
+Analytical Thinking | Attention to Detail | Problem-Solving | Cross-functional Collaboration
 
 --- 
 ## 🎓 Education 
