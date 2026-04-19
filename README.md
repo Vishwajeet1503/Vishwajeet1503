@@ -12,7 +12,7 @@
 
 --- 
 ## 🛠️ Skills & Tools 
-
+<i class="fa-brands fa-html5"></i>
 ### 📈 Languages & Querying
 Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL (MySQL, PostgreSQL) | Advanced Excel
 
