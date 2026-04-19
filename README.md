@@ -15,7 +15,6 @@
 
 ### 📈 Languages & Querying
 Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL (MySQL, PostgreSQL) | Advanced Excel
-<a href="https://iconscout.com/icons/html" class="text-underline font-size-sm" target="_blank"></a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm" target="_blank"></a>
 
 ### 📊 Visualization & BI
 Power BI (DAX, interactive dashboards, KPI tracking) | Excel Dashboards | Google Sheets
