@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C6FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Vishwajeet+K.+Mahore;Data+Analyst+Intern+Aspirant;Turning+Data+into+Meaningful+Insights" />
