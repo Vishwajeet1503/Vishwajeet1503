@@ -6,15 +6,9 @@
 
 </p>
 
-# 👋 Hi, I’m Vishwajeet K. Mahore
+# 👋 Hi, I’m Vishwajeet K. Mahore <a href="https://drive.google.com/file/d/1CE9HIFW04l0c0xqLIT8C8Vhx2pcwgyNM/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/⬇%20Download%20Resume-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000&labelColor=FFFFFF" style="border-radius:20px;" /></a>
 
 📍 India
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1CE9HIFW04l0c0xqLIT8C8Vhx2pcwgyNM/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
 
 --- 
 
