@@ -11,8 +11,8 @@
 📍 India
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-00C6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1CE9HIFW04l0c0xqLIT8C8Vhx2pcwgyNM/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
