@@ -55,8 +55,6 @@ Problem-Solving | Debugging | Analytical Thinking | Code Documentation | Attenti
 
 🎓 **B.Tech in Computer Technology** – Rashtrasant Tukadoji Maharaj Nagpur University (2021–2025)
 
-* CGPA: 6.78
-
 * Relevant Coursework: Data Structures | Database Management Systems | SQL | Computer Networks | Software Development | Computer Science Fundamentals
 
 ---
@@ -75,9 +73,7 @@ Problem-Solving | Debugging | Analytical Thinking | Code Documentation | Attenti
 
 * 💼 LinkedIn: *https://www.linkedin.com/in/vishwajeet-kishor-mahore/*
 
-* 👨🏻‍💻 GitHub: *https://github.com/Vishwajeet1507*
-
-* 📊 HackerRank: *https://www.hackerrank.com/profile/vishwajeetmahor1*
+* 👨🏻‍💻 GitHub: Haha! You are already here.
 
 ---
 
