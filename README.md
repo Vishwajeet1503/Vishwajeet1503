@@ -7,7 +7,7 @@
 
 </p>
 
-# 👋 Hi, I’m Vishwajeet K. Mahore. Here is - <a href="https://drive.google.com/file/d/1WB-iLXszj4wOV46Fj8Bt91aNN43E4aaq/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/⬇%20My%20Resume-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000&labelColor=FFFFFF&color=FFFFFF" style="border-radius:10000px;padding:6px 14px;" /></a>
+# 👋 Hi, I’m Vishwajeet K. Mahore. Here is <a href="https://drive.google.com/file/d/1WB-iLXszj4wOV46Fj8Bt91aNN43E4aaq/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/⬇%20My%20Resume-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000&labelColor=FFFFFF&color=FFFFFF" style="border-radius:10000px;padding:6px 14px;" /></a>
 
 📍 India
 
